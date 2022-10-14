@@ -3,9 +3,4 @@
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 
-## Notas
-Pueden hacer lo que quieran...
-ESte es un mensje actualizado desde GitHub
-
-## PUERTOS
-El puerto 80:80
+## ESTOS CAMBIOS SON NUEVOS!!!
